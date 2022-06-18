@@ -1,0 +1,71 @@
+body {
+    background-color: #FFE8E8;
+    text-align: center;
+}
+
+p {
+    width: 80%;
+    margin: 0 auto;
+}
+
+hr {
+    border: dotted #1DB9C3 6px;
+    margin: 50px auto;
+    border-bottom: none;
+    width: 9%;  
+}
+
+.middle {
+    line-height: 2;
+    font-size: large;
+}
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Poiret One', cursive;
+}
+
+.pro {
+    font-family: 'BIZ UDMincho', serif;
+    text-align: left;
+    margin-left: 15%;
+    color: #E60965;
+}
+h2 {
+    font-family: 'Poiret One', cursive;
+}
+
+.name {
+    font-family: 'dancing script', cursive;
+    font-size: 5.625em;
+    color: #A56CC1;
+    text-align: left;
+    margin-left: 15%;
+}
+
+.taylor-img {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.about {
+    line-height: 2;
+}
+
+.bottom {
+    background-color: #FFE9D6;
+    line-height: 3;
+    padding: 10px 0;
+
+}
+
+.footer-link {
+    text-decoration: none;
+    margin: 5px 20px;
+    color: #79DAE8;
+    font-size: larger;
+}
+.footer-link:hover {
+    color: #2155CD;
+    transition: 2s;
+}
